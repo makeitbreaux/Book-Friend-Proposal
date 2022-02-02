@@ -22,4 +22,4 @@ F. My stretch goal is to be able to provide a shop feature where the user will b
 
 
 ## Schema Design
-BookFriendSchema.drawio.png
+![Schema Design](BookFriendSchema.drawio.png)

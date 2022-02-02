@@ -19,3 +19,7 @@ C. The only sensitive information I will need to secure is the User signup/login
 D. The functionality my app will include will be the ability to search an author’s full work, the ability to search book details, the ability to search for similar books based on a subject, and the ability to save book information in a favorited section.
 E. User flow will be something along the lines of signing up/logging in, having the books the user has favorited displayed on the homepage, user will be able search for authors/other books, user will be able to delete books from favorited, the user will be able to edit their user profile. Should I think of anything else, I will add to it.
 F. My stretch goal is to be able to provide a shop feature where the user will be able to purchase the books they have searched for.
+
+
+## Schema Design
+BookFriendSchema.drawio.png
